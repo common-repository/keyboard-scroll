@@ -1,0 +1,81 @@
+# Copyright (C) 2013 Keyboard Scroll
+# This file is distributed under the same license as the Keyboard Scroll package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Keyboard Scroll 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/keyboard-scroll\n"
+"POT-Creation-Date: 2013-11-06 11:59:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: settings.php:16
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: settings.php:47
+msgid "Settings saved."
+msgstr ""
+
+#: settings.php:64
+msgid "Animation speed"
+msgstr ""
+
+#: settings.php:67
+msgid "(Default: 200; 0 = no animation)"
+msgstr ""
+
+#: settings.php:71
+msgid "CSS class"
+msgstr ""
+
+#: settings.php:74
+msgid "(Default: post)"
+msgstr ""
+
+#: settings.php:78
+msgid "Page change"
+msgstr ""
+
+#: settings.php:82
+msgid "Change to next or previous page if bottom or top of page is reached."
+msgstr ""
+
+#: settings.php:86
+msgid "Dynamic scrolling"
+msgstr ""
+
+#: settings.php:90
+msgid "Speed up scrolling if user presses keys rapidly."
+msgstr ""
+
+#: settings.php:94
+msgid "Acceleration"
+msgstr ""
+
+#: settings.php:97
+msgid "(Scroll acceleration factor)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Keyboard Scroll"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Scroll through posts using the J/K keys"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lutz Schr&ouml;er"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.elektroelch.net/"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "navigation, keyboard"
+msgstr ""
